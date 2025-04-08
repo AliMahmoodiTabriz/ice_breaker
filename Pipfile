@@ -9,6 +9,7 @@ langchain-google-genai = "*"
 langchain-community = "*"
 langchainhub = "*"
 black = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
